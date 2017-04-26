@@ -1,6 +1,6 @@
 # npmdoc-total.js
 
-#### api documentation for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-total.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-total.js)
+#### basic api documentation for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-total.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-total.js)
 
 #### Web framework for Node.js
 

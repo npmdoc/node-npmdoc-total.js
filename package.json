@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-total.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-total.js)",
+    "description": "#### basic api documentation for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-total.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-total.js)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "total.js": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }
